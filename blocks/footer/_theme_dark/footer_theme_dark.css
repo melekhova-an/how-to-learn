@@ -1,0 +1,7 @@
+.footer_theme_dark{
+  display: flex;
+  justify-content: space-around;
+  padding: 60px auto 40px;
+  background-color: #1f1f1f;
+  color: #f2f2f2;
+}

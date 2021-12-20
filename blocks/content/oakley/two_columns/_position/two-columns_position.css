@@ -1,0 +1,5 @@
+.two_columns_position{
+  display: flex;
+  justify-content: space-between;
+  margin: 0px auto;
+}

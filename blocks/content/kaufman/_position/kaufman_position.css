@@ -1,0 +1,9 @@
+.kaufman_position{
+  position: relative;
+  background-color: #1f1f1f;
+  color: #f2f2f2;
+  overflow: hidden;
+  justify-content: center;
+  margin: 0px auto 100px auto;
+
+}

@@ -1,0 +1,5 @@
+.cards_position{
+  display: flex;
+  flex-wrap: wrap;
+
+}

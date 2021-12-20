@@ -1,0 +1,11 @@
+.cards__item{
+  width: 240px;
+  line-height: 1.15;
+  font-weight: 600;
+  margin: 0px 100px 0px 0px;
+
+}
+
+.cards__item:nth-child(3n){
+  margin: 0px 0px 0px 0px;
+}
