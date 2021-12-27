@@ -8,11 +8,15 @@
   /* выше для экранов больше 1600px отцентрировали весь контент */
 
 }
-
-*{
-  margin: 0px;
-  padding: 0px;
-}
 a{
   text-decoration: none;
+
+}
+li {
+  list-style-type: none;
+}
+
+
+blockquote{
+  margin:  0px;
 }
