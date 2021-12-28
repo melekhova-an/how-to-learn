@@ -5,6 +5,7 @@
   font-weight: normal;
   margin-bottom: 10px;
   align-self:baseline;
+  text-decoration: none;
 }
 
 .footer__column-link:hover{
