@@ -1,7 +1,7 @@
 .feynman {
   margin: 0px;
   min-height: 890px;
-  background-image: url(./../../../images/feinman.png);
+  background-image: url(./../../images/feinman.png);
   background-color: #f2f2f2;
   display: flex;
   flex-direction: column;
